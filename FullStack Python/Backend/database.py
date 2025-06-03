@@ -2,7 +2,7 @@
 import pyrebase
 def fetchData():
      firebaseconfiguration={ 
-       "apiKey": "AIzaSyCOD0VCBf1HYGGLKXo0TNbwew9pqFh39cs",
+       "apiKey": "***************************",
        "authDomain": "firstproject-6b23d.firebaseapp.com",
        "databaseURL": "https://firstproject-6b23d-default-rtdb.firebaseio.com/",
        "projectId": "firstproject-6b23d",
