@@ -1,0 +1,10 @@
+Application development happens in three phase
+
+1.Backend development: 
+In this we deals with creating live server API to perform an operation.
+Backend development follow rest API architecture: designing multiple micro services.
+Backend application should have unique port to communicate with other application.
+Backend uses flask framework to create micro service.
+
+After backend development the API moves to testing phase, where it undergoes multiple scenarios
+Postman/SoapUI is used as testing tool to test API
